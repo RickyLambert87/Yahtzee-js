@@ -1,4 +1,4 @@
-<img src="./assets/img/banner.png" alt="Banner image">
+<img src="/images/banner.png" alt="Banner image">
 
 # Yahtzee! .JS
 
