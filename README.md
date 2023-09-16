@@ -1,4 +1,4 @@
-<img src="http://www.lumous.com/yahtzee/images/banner.png" alt="Banner image">
+<img src="./assets/img/banner.png" alt="Banner image">
 
 # Yahtzee! .JS
 
