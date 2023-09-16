@@ -26,7 +26,7 @@ html {
   body {
     height: 100%;
     margin: 0;
-    background: url(/assets/img/green-dust-and-scratches.png), url(/assets/img/wood-bg.jpg);
+    background: url(../img/green-dust-and-scratches.png), url(../img/wood-bg.jpg);
     box-shadow: inset 0 0 100px rgba(0, 0, 0, 0.5); }
   
   h1, h2, h3 {
@@ -286,7 +286,7 @@ html {
     padding: 20px;
     margin-top: 20px;
     margin-bottom: 20px;
-    background-image: url(/assets/img/table-logo.png), url(/assets/img/black-felt.png), url(/assets/img/velvet-bg.jpg);
+    background-image: url(../img/table-logo.png), url(../img/black-felt.png), url(../img/velvet-bg.jpg);
     background-position: center;
     background-repeat: no-repeat, repeat, repeat;
     background-size: 220px, auto, auto;
@@ -351,7 +351,7 @@ html {
     opacity: 1;
     transform: scale(0.3);
     transition: all, .3s;
-    background: url(/assets/img/scratches.png), radial-gradient(ellipse at center, #FFFFFF 0%, #E0E0E0 70%, #DCDCDC 40%, #D6D6D6 100%);
+    background: url(../img/scratches.png), radial-gradient(ellipse at center, #FFFFFF 0%, #E0E0E0 70%, #DCDCDC 40%, #D6D6D6 100%);
     background-size: contain;
     background-position: center center; }
     .die:hover,
@@ -422,7 +422,7 @@ html {
     border-bottom: 1px solid #EFDEC9;
     border-right: 1px solid #E2CBAF;
     margin-bottom: 20px;
-    background: url(/assets/img/wood-bg.jpg);
+    background: url(../img/wood-bg.jpg);
     background-position: -20px 0;
     padding: 5px; }
     @media (min-width: 768px) {
